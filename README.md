@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer || - Teleperformance<br>Experienced Web Developer with 6 years of experience in Full stack development, Vue.js development, Flutter development and front-end web development. Proven ability to create high-quality websites and applications with a focus on user experience. I am seeking a remote position to utilize my skills and expertise to develop innovative solutions.<br>
+Software Developer || - Harman International<br>Experienced Web Developer with 3 years of experience in Full stack development, Vue.js development, Python, Flutter development and front-end web development. Proven ability to create high-quality websites and applications with a focus on user experience. I am seeking a remote position to utilize my skills and expertise to develop innovative solutions.<br>
 
 
 ## 🌐 Socials:
